@@ -5,7 +5,7 @@ tags:
 - 解説
 ---
 
-![Azure log](./WinAzure_logo.png)
+{% asset_img WinAzure_logo.png AzureLogo%}
 
 このブログでは主にMicrosoft Azureに関する記事を公開していきます。
 
